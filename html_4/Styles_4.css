@@ -3,3 +3,12 @@
 hgroup > h1{
     background: #4284c6;
 }
+/*Selector hermano Adyacente*/
+
+p + a{
+    background: #42c670;
+}
+p+a+a{
+    background: #f7da3b;
+}
+
