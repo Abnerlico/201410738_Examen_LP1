@@ -1,3 +1,11 @@
+h1{
+    text-shadow: black 6px 6px 8px;
+    font-size: 200%;
+    font-weight: bold;
+    letter-spacing: 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
 /*Selector de Hijo*/
 
 hgroup > h1{
