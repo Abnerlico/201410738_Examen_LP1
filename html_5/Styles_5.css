@@ -14,3 +14,11 @@ nav a[href^="http://"]{
 p[title*="titulo"]{
     background: #45fa24
 }
+div {
+  background-clip: border-box;
+
+  border: black 10px dotted;
+  margin: 20px;
+  padding: 20px;
+    background-color: lightblue;
+}
