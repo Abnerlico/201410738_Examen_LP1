@@ -1,0 +1,4 @@
+/*Selector del Atributo separado por espacios*/
+p[class~="documento"]{
+    background: rgba(235, 235, 104, 0.75);
+}
