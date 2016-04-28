@@ -2,3 +2,7 @@
 p[class~="documento"]{
     background: rgba(235, 235, 104, 0.75);
 }
+/*Selector de atributos separados por un guion*/
+p[class |="documento_tres"]{
+    background: #c642b2;
+}
