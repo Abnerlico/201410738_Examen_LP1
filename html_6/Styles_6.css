@@ -1,5 +1,13 @@
 .login{
-}
-#login1{
 
 }
+#login1{
+ background-clip: border-box;
+
+  border: black 10px dotted;
+  margin: 20px;
+  padding: 20px;
+  background-color: lightblue;
+}
+
+
