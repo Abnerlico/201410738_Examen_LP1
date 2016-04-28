@@ -10,3 +10,7 @@ p[class |="documento_tres"]{
 nav a[href^="http://"]{
     background: rgba(117, 198, 66, 0.79);
 }
+/*Selector de atributo Contiene*/
+p[title*="titulo"]{
+    background: #45fa24
+}
