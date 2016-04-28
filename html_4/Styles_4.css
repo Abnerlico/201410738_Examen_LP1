@@ -6,6 +6,14 @@ h1{
     text-align: center;
     text-transform: uppercase;
 }
+a{
+    text-shadow: black 6px 6px 8px;
+    font-size: 70%;
+    font-weight:normal;
+    letter-spacing: 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
 /*Selector de Hijo*/
 
 hgroup > h1{
