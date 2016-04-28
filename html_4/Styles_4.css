@@ -1,0 +1,5 @@
+/*Selector de Hijo*/
+
+hgroup > h1{
+    background: #4284c6;
+}
