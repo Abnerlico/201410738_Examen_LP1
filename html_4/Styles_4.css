@@ -11,4 +11,7 @@ p + a{
 p+a+a{
     background: #f7da3b;
 }
-
+/*Selector hermano General*/
+a ~ p{
+    background: #c64251;
+}
